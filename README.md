@@ -19,6 +19,9 @@ ARR (Annual Recurring Revenue), Multipe of Bookings, & GMV (Gross Merchandise Va
 
 <img src="https://github.com/npgeorge/FinCrawl/blob/master/Images/cp_how_to_spot_a_bubble_6.png" alt="drawing" align="middle" width="600"/>
 
+## How it Works
+
+FinCrawl uses Python to gather data across multiple sites, compiles it, analyzes it using Natural Language Processing, and weighs each of the 6 factors against each other to understand the phase of the market cycle we're currently in.
 
 
 ## Have an Idea? Reach out here:
