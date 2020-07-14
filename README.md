@@ -7,4 +7,19 @@ ARR (Annual Recurring Revenue), Multipe of Bookings, & GMV (Gross Merchandise Va
 
 ## Tweet Thread
 
-<img src="https://github.com/npgeorge/FinCrawl/blob/master/images/" alt="drawing" align="middle" width="800"/>
+<img src="https://github.com/npgeorge/FinCrawl/blob/master/Images/cp_how_to_spot_a_bubble_1.png" alt="drawing" align="middle" width="600"/>
+
+<img src="https://github.com/npgeorge/FinCrawl/blob/master/Images/cp_how_to_spot_a_bubble_2.png" alt="drawing" align="middle" width="600"/>
+
+<img src="https://github.com/npgeorge/FinCrawl/blob/master/Images/cp_how_to_spot_a_bubble_3.png" alt="drawing" align="middle" width="600"/>
+
+<img src="https://github.com/npgeorge/FinCrawl/blob/master/Images/cp_how_to_spot_a_bubble_4.png" alt="drawing" align="middle" width="600"/>
+
+<img src="https://github.com/npgeorge/FinCrawl/blob/master/Images/cp_how_to_spot_a_bubble_5.png" alt="drawing" align="middle" width="600"/>
+
+<img src="https://github.com/npgeorge/FinCrawl/blob/master/Images/cp_how_to_spot_a_bubble_6.png" alt="drawing" align="middle" width="600"/>
+
+
+
+## Have an Idea? Reach out here:
+### [Nick George](https://nickg.webflow.io/)
